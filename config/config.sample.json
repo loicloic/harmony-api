@@ -1,4 +1,5 @@
 {
+  "broadcast":"192.168.0.255",
   "enableHTTPserver": true,
   "mqtt_host": "mqtt://127.0.0.1",
   "topic_namespace": "harmony-api",
